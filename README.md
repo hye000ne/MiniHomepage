@@ -10,4 +10,7 @@
 - cart.md 추가
 
 ## 구매 페이지 추가
-buy.md 추가
+- buy.md 추가
+
+## 푸터 추가
+- footer.md 파일 추가
